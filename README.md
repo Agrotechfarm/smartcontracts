@@ -16,17 +16,19 @@ Maximum Token Purchase|No Limit
 **1. Token Amount**
 
 The maximum token amount is 1,431 000 ATFs.
-Tokens are minted during the crowdsale and the total supply is fixed at the end of the crowdsale so that the maximum token amount might not be rea$
+Tokens are minted during the crowdsale and the total supply is fixed at the end of the crowdsale so that the maximum token amount might not be reached.
 In case the maximum number should be reached, the crowdsale allows for up to 1,514 atoms to be created due to arithmetic imprecisions.
+
 
 **2. ICO Phases**
 
-The token sale goes through the following phases:
+Phases|Date
 ---|---
 Starting Date (PRE-SALE)|16 February 2018
 Ending Date (PRE-SALE)|9 March 2018
 Starting Date (ICO)|10 March 2018
 Ending Date (ICO)|10 April 2018
+
 
 **3. ICO Price & Bonus**
 
