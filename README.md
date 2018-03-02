@@ -30,12 +30,15 @@ Ending Date (ICO)|10 April 2018
 
 **3. ICO Price & Bonus**
 
-**PRE-ICO**
+***PRE-ICO***
+
 Day|Price|Equivalent Bonus
 ---|---|---
 All|1 ATF=0.012 ETH|40%
 
-**ICO**
+
+***ICO***
+
 Week|Price|Equivalent Bonus
 ---|---|---
 1|1 ATF=0.012 ETH|+20% tokens
