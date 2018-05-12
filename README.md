@@ -24,10 +24,12 @@ In case the maximum number should be reached, the crowdsale allows for up to 1,5
 
 Phases|Date
 ---|---
-Starting Date (PRE-SALE)|16 February 2018
-Ending Date (PRE-SALE)|9 March 2018
-Starting Date (ICO)|10 March 2018
-Ending Date (ICO)|10 April 2018
+Starting Date (Pre-SALE)|16 February 2018
+Ending Date (PRE-SALE)|20 April 2018
+Starting Date (Private-SALE)|21 April 2018
+Ending Date (Private-SALE)|31 May 2018
+Starting Date (ICO)|1 June 2018
+Ending Date (ICO)|31 July 2018
 
 
 **3. ICO Price & Bonus**
@@ -43,9 +45,9 @@ All|1 ATF=0.012 ETH|40%
 
 Week|Price|Equivalent Bonus
 ---|---|---
-1|1 ATF=0.012 ETH|+20% tokens
-2|1 ATF=0.012 ETH|+15% tokens
-3|1 ATF=0.012 ETH|+10% tokens
+1-2|1 ATF=0.012 ETH|+20% tokens
+3-4|1 ATF=0.012 ETH|+10% tokens
+5-6|1 ATF=0.012 ETH|+5% tokens
 
 
 
