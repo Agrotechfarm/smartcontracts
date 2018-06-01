@@ -41,11 +41,11 @@ All|1 ATF=0.012 ETH|up to 40%
 
 ***ICO***
 
-Week|Price|Equivalent Bonus
+Date|Price|Equivalent Bonus
 ---|---|---
-1-2|1 ATF=0.012 ETH|+20% tokens
-3-4|1 ATF=0.012 ETH|+10% tokens
-5-6|1 ATF=0.012 ETH|+5% tokens
+1-10 June|1 ATF=0.012 ETH|+20% tokens
+11-25 June|1 ATF=0.012 ETH|+10% tokens
+26-10 July|1 ATF=0.012 ETH|+5% tokens
 
 
 
