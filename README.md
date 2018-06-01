@@ -1,4 +1,4 @@
-![Cointed](Logo_ATF.png)
+![Cointed](Logo_ATF_01.png)
 
 **General Overview**
 
