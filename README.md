@@ -2,7 +2,7 @@
 
 **General Overview**
 
-Token Name|Agro TechFarm(ATF)
+Token Name|AgroTechFarm (ATF)
 ---|---
 Decimals|18
 Smallest Unit (Atom)|1e-18 ATF
@@ -15,7 +15,7 @@ Maximum Token Purchase|No Limit
 
 **1. Token Amount**
 
-The maximum token amount is 1,431 000 ATFs.
+The maximum token amount is 5,000,000 ATFs.
 Tokens are minted during the crowdsale and the total supply is fixed at the end of the crowdsale so that the maximum token amount might not be reached.
 In case the maximum number should be reached, the crowdsale allows for up to 1,514 atoms to be created due to arithmetic imprecisions.
 
@@ -26,8 +26,6 @@ Phases|Date
 ---|---
 Starting Date (Pre-SALE)|16 February 2018
 Ending Date (PRE-SALE)|20 April 2018
-Starting Date (Private-SALE)|21 April 2018
-Ending Date (Private-SALE)|31 May 2018
 Starting Date (ICO)|1 June 2018
 Ending Date (ICO)|31 July 2018
 
@@ -38,7 +36,7 @@ Ending Date (ICO)|31 July 2018
 
 Day|Price|Equivalent Bonus
 ---|---|---
-All|1 ATF=0.012 ETH|40%
+All|1 ATF=0.012 ETH|up to 40%
 
 
 ***ICO***
