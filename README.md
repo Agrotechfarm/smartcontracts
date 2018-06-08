@@ -49,6 +49,13 @@ Date|Price|Equivalent Bonus
 26-10 July|1 ATF=0.012 ETH|+5% tokens
 
 
+Testing
+
+Need testrpc installed.
+
+Running tests: go to project root dir and run: truffle test
+
+
 
 For further information please visit our website https://www.agrotechfarm.io/ or blog
 https://medium.com/@agro_tech_farm/about-agrotechfarm-ae879b58d339  or telegram
