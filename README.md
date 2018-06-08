@@ -49,7 +49,7 @@ Date|Price|Equivalent Bonus
 26-10 July|1 ATF=0.012 ETH|+5% tokens
 
 
-Testing
+**Testing**
 
 Need testrpc installed.
 
